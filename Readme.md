@@ -53,6 +53,20 @@ This is a Python application that utilizes the power of face recognition to perf
 
 ## Examples
 
+![Add Person Filled Information](GUI%20Screen%20Shots/Add%20Person%20Filled%20Information.png)
+*Add Person Filled Information*
+
+![Face Recognition After Camera Started](GUI%20Screen%20Shots/Face%20Recognition%20After%20Camera%20Started.png)
+*Face Recognition After Camera Started*
+
+<!-- ## User Guide
+
+[Download User Guide](Images/UserGuide/user_guide.pdf)
+
+The user guide provides detailed instructions on how to use the application, along with explanations of various features and settings.
+ -->
+## Examples
+
 Here are a few examples of how to use the application:
 
 - Training the model:
@@ -81,3 +95,11 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 ## Contact
 
 For any questions or inquiries, please contact [Jainil Dalwadi](mailto:your-email@example.com).
+
+## Disclaimer
+
+**Note:** This project was developed as part of a college project or assignment. While it showcases the implementation of real-time multi-face recognition using Python and PyQT, please be aware that it may have limitations or areas for improvement.
+
+We acknowledge that this project can be enhanced in various ways, such as improving accuracy, optimizing performance, and refining the user interface. Although the project may not be actively maintained or updated, it serves as a demonstration of our skills and knowledge during its development.
+
+We encourage developers and enthusiasts to explore, build upon, and enhance this project further. Contributions, suggestions, and improvements are always welcome.
