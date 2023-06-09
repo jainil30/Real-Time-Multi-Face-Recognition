@@ -65,8 +65,6 @@ This is a Python application that utilizes the power of face recognition to perf
 
 The user guide provides detailed instructions on how to use the application, along with explanations of various features and settings.
  -->
-## Examples
-
 Here are a few examples of how to use the application:
 
 - Training the model:
