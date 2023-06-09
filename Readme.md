@@ -53,10 +53,10 @@ This is a Python application that utilizes the power of face recognition to perf
 
 ## Examples
 
-![Add Person Filled Information](GUI Screen Shots/Add Person Filled Information.png)
+![Add Person Filled Information](GUI%20Screen%20Shots/Add%20Person%20Filled%20Information.png)
 *Add Person Filled Information*
 
-![Face Recognition After Camera Started](GUI Screen Shots/Face Recognition After Camera Started.png)
+![Face Recognition After Camera Started](GUI%20Screen%20Shots/Face%20Recognition%20After%20Camera%20Started.png)
 *Face Recognition After Camera Started*
 
 <!-- ## User Guide
