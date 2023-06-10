@@ -65,8 +65,6 @@ This is a Python application that utilizes the power of face recognition to perf
 
 The user guide provides detailed instructions on how to use the application, along with explanations of various features and settings.
  -->
-## Examples
-
 Here are a few examples of how to use the application:
 
 - Training the model:
@@ -88,10 +86,29 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [face_recognition](https://github.com/ageitgey/face_recognition): The face recognition library used in this project.
 
-## Contributing
+## Contributions
 
-Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
+I'm looking for long-term contributors/partners to this repo! Send me [PRs](https://github.com/jainil30/Real-Time-Multi-Face-Recognition/pulls) if you're interested! See the following:
+
+1. Fork [this repository](https://github.com/jainil30/Real-Time-Multi-Face-Recognition) to your own GitHub account and then clone it to your local machine.
+1. Checkout a new branch.
+1. Make some changes to your leetcode repository, then push the changes to your remote GitHub repository.
+1. Create a pull request with your changes!
+1. [GitHub Help](https://help.github.com/en) for more details.
+
+<p align="center">
+  <a href="https://github.com/doocs/leetcode"><img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/leetcode@main/images/how-to-contribute.svg" alt="how-to-contribute"></a>
+</p>
+
 
 ## Contact
 
 For any questions or inquiries, please contact [Jainil Dalwadi](mailto:your-email@example.com).
+
+## Disclaimer
+
+**Note:** This project was developed as part of a college project or assignment. While it showcases the implementation of real-time multi-face recognition using Python and PyQT, please be aware that it may have limitations or areas for improvement.
+
+We acknowledge that this project can be enhanced in various ways, such as improving accuracy, optimizing performance, and refining the user interface. Although the project may not be actively maintained or updated, it serves as a demonstration of our skills and knowledge during its development.
+
+We encourage developers and enthusiasts to explore, build upon, and enhance this project further. Contributions, suggestions, and improvements are always welcome.
