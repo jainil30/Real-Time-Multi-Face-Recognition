@@ -86,9 +86,20 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [face_recognition](https://github.com/ageitgey/face_recognition): The face recognition library used in this project.
 
-## Contributing
+## Contributions
 
-Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
+I'm looking for long-term contributors/partners to this repo! Send me [PRs](https://github.com/jainil30/Real-Time-Multi-Face-Recognition/pulls) if you're interested! See the following:
+
+1. Fork [this repository](https://github.com/jainil30/Real-Time-Multi-Face-Recognition) to your own GitHub account and then clone it to your local machine.
+1. Checkout a new branch.
+1. Make some changes to your leetcode repository, then push the changes to your remote GitHub repository.
+1. Create a pull request with your changes!
+1. [GitHub Help](https://help.github.com/en) for more details.
+
+<p align="center">
+  <a href="https://github.com/doocs/leetcode"><img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/leetcode@main/images/how-to-contribute.svg" alt="how-to-contribute"></a>
+</p>
+
 
 ## Contact
 
